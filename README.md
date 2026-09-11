@@ -21,20 +21,32 @@ I apply the same rigor to my process as I do to my code. I use a **26-stage Doub
 ## 🚀 Featured Work
 
 ### [Calm Navigation Companion](https://calm-navigation-companion.pages.dev)
-**A navigation engine that routes for calm instead of speed.**
-
-Most maps optimize for the shortest path. For neurodivergent users, the "shortest" path can be a sensory nightmare. I built a companion that prioritizes residential streets and green spaces to reduce cognitive load.
-
-*   **Technical Rigor:** Developed a custom navigation state machine with **3-fix hysteresis** to eliminate "GPS jitter" reroutes and ensure a stable user experience.
-*   **Sensory Engineering:** Built an **Auditory Regulation** system using the Web Audio API to synthesize decorrelated stereo noise and procedural convolution reverb, creating an active stress-reduction layer.
-*   **Evidence-Driven Iteration:** After user feedback revealed that "calm" routes could feel unsafe at night, I implemented a **Night-Safety toggle** that weights busier, well-lit streets over isolation.
-*   **Scale:** Architected a hybrid PWA/Native app via **Capacitor**, writing custom **Swift and Kotlin plugins** to enable true background GPS and audio guidance on iOS and Android.
-*   **Data Integration:** Integrated the **OpenStreetMap Overpass API** to measure real green-space coverage, breaking routing ties in favor of measurably greener paths.
+**Lead Designer & Engineer (Solo)**
+- **Outcome:** Shipped a live, installable PWA optimizing for "calm" routing instead of speed.
+- **Metrics:** **15,000+ lines** of vanilla HTML/CSS/JS; **0 dependencies**; 100% build-less architecture for infinite maintainability.
+- **The Turn:** Reframed the navigation problem from "Shortest Time" $\rightarrow$ "Lowest Sensory Cost."
+- **Corporate Value:** Proven ability to ship a production-ready tool from scratch without framework bloat.
 
 ### [The Return Gap](https://antoniotakor-tech.github.io)
-**An investigation into the failure of deposit container systems in Amsterdam.**
+**Lead Researcher**
+- **Outcome:** Developed a costed infrastructure pilot for urban waste management.
+- **Metrics:** **€20,000** budget projection; **15-month** rollout; **12 weeks** of measured collection across **3 buildings**.
+- **The Turn:** Identified that "the mess" is a failure of search—reframed the solution from "better bins" $\rightarrow$ "source collection."
+- **Corporate Value:** Ability to conduct primary field research and translate raw street data into a costed, viable business proposal.
 
-A study in "The Mess of the Gap"—exploring why the friction in the return process leads to systemic failure. This project combines urban observation with product analysis to identify the precise point where a user's intent to be sustainable is defeated by the interface of the city.
+### [Purylock](https://antoniotakor-tech.github.io)
+**Product Manager (Senz Brand Partner)**
+- **Outcome:** Defined a modular infrastructure concept for urban lobbies.
+- **Metrics:** Validated via **Stars & Dogs** and **COCD matrices**; costed business-model options for B2B scaling.
+- **The Turn:** Shifted product goal from "Protecting from rain" $\rightarrow$ "Recovery after rain."
+- **Corporate Value:** Experience managing a brand-partner brief and using rigorous decision matrices to justify product direction.
+
+### [GrandPod](https://antoniotakor-tech.github.io)
+**Concept & Validation Lead**
+- **Outcome:** Shipped a browser MVP and a high-fidelity "Wizard-of-Oz" concept test.
+- **Metrics:** **26 initial concepts** narrowed to **1** validated solution; tested with real elderly participants.
+- **The Turn:** Recognized that for the digitally excluded, the "app" is the barrier—reframed as "Human-first, AI-backstage."
+- **Corporate Value:** Demonstrated ability to navigate "wicked problems" and validate complex human needs using non-linear prototyping.
 
 ---
 

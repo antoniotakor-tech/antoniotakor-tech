@@ -22,4 +22,4 @@ myself — so everything I ship, I can still fix a year later.
 
 `HTML` · `CSS` · `JavaScript` · `Git` · `Cloudflare Pages` · `GitHub Pages`
 
-<sub>BBA Business Innovation, Inholland Amsterdam · Italian, English, Dutch (developing)</sub>
+<sub>BA Business Innovation, Inholland Amsterdam · Italian, English, Dutch (developing)</sub>

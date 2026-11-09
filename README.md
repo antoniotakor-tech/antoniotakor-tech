@@ -1,4 +1,4 @@
-<img src="banner.gif" alt="Antonio Frungillo. Innovation and product, Amsterdam. Find the real problem, test it with the people who have it, then build. No frameworks, no trackers, no fake evidence." width="100%">
+<img src="banner.gif" alt="Antonio Frungillo. Innovation and product, Amsterdam. Find the real problem, test it with the people who have it, then build." width="100%">
 
 ### I START WHERE THERE IS NO PRODUCT YET.
 

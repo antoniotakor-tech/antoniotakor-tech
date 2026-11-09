@@ -1,33 +1,36 @@
-<img src="banner.png" alt="Antonio Frungillo. Innovation and product, Amsterdam. I start where there is no product yet." width="100%">
+<img src="banner.gif" alt="Antonio Frungillo. Innovation and product, Amsterdam. Find the real problem, test it with the people who have it, then build. No frameworks, no trackers, no fake evidence." width="100%">
 
-I find the real problem, test it with the people who have it, and then build something that works. I work where product design, human-computer interaction and lean engineering meet, and I like tools for people that standard "efficient" software leaves out.
+### I START WHERE THERE IS NO PRODUCT YET.
 
-[Portfolio](https://antoniotakor-tech.github.io) · [LinkedIn](https://www.linkedin.com/in/antonio-frungillo) · [Email](mailto:antoniotakor@icloud.com)
+Find the real problem. Test it with the people who have it. Then build something that works.
+Product design, human-computer interaction and lean engineering, for the people standard software forgets.
+
+[**PORTFOLIO**](https://antoniotakor-tech.github.io) · [**LINKEDIN**](https://www.linkedin.com/in/antonio-frungillo) · [**EMAIL**](mailto:antoniotakor@icloud.com)
 
 ---
 
-## Work
+### WORK
 
-| Project | What it is | Link |
+| | | |
 | :--- | :--- | :--- |
-| **Calm Navigation Companion** | A walking navigation PWA that routes for calm instead of speed. Plain HTML, CSS and JavaScript, no framework, no account. | [Live app](https://calm-navigation-companion.pages.dev) · [Code](https://github.com/antoniotakor-tech/calm-navigation-companion) |
-| **MileZero** | Team project (4mobility): a ride-value check for gig drivers, built on 50 driver interviews. Landing page with privacy statement and cookie policy. | [Website](https://antoniotakor-tech.github.io/milezero-site/) · [Code](https://github.com/antoniotakor-tech/milezero-site) |
-| **Spaakwerk landing page** | A landing page for a small bike shop, built as a practice client job. Fixed prices up front, WhatsApp booking, no cookies, strict security policy. | [Live](https://antoniotakor-tech.github.io/spaakwerk-demo/) · [Code](https://github.com/antoniotakor-tech/spaakwerk-demo) |
-| **The Return Gap** | A costed pilot for urban waste collection, based on field research and street interviews. | [Portfolio](https://antoniotakor-tech.github.io) |
-| **Purylock** | A modular lobby concept for a brand partner, decided with Stars and Dogs and COCD matrices. | [Portfolio](https://antoniotakor-tech.github.io) |
-| **GrandPod** | A browser MVP and a Wizard-of-Oz concept test for older people: human first, AI backstage. | [Portfolio](https://antoniotakor-tech.github.io) |
+| **CALM NAVIGATION COMPANION** | Walking navigation that routes for calm instead of speed. Installable PWA, no account, no framework. | [Live](https://calm-navigation-companion.pages.dev) · [Code](https://github.com/antoniotakor-tech/calm-navigation-companion) |
+| **MILEZERO** | Is this ride worth it? A red or green answer for gig drivers, built on 50 driver interviews. Team project (4mobility). | [Live](https://antoniotakor-tech.github.io/milezero-site/) · [Code](https://github.com/antoniotakor-tech/milezero-site) |
+| **SPAAKWERK** | A landing page for a bike shop: prices first, WhatsApp booking, zero cookies. A practice client job. | [Live](https://antoniotakor-tech.github.io/spaakwerk-demo/) · [Code](https://github.com/antoniotakor-tech/spaakwerk-demo) |
+| **THE RETURN GAP** | A costed pilot for urban waste collection, from field research and street interviews. | [Portfolio](https://antoniotakor-tech.github.io) |
+| **PURYLOCK** | A modular lobby concept for a brand partner, decided with Stars and Dogs and COCD matrices. | [Portfolio](https://antoniotakor-tech.github.io) |
+| **GRANDPOD** | A concept test for older people: human first, AI backstage. | [Portfolio](https://antoniotakor-tech.github.io) |
 
-## How I build
+### RULES
 
-- **Plain web.** HTML, CSS and vanilla JavaScript. No bundlers, no frameworks, so one person can keep it running years from now.
-- **Quiet by default.** No analytics, no trackers, no third-party requests, self-hosted fonts, a strict content security policy.
-- **Evidence before build.** I use my own 26-stage Double Diamond process, and simulated evidence does not count.
-- **Real people.** Phone width first, keyboard and reduced motion respected, contrast computed and not guessed.
+- **NO FRAMEWORKS.** Plain HTML, CSS and vanilla JavaScript that one person can still fix in ten years.
+- **NO TRACKERS.** No analytics, no third-party requests, self-hosted fonts, a strict security policy.
+- **NO FAKE EVIDENCE.** Simulated proof does not count. 26 stages of Double Diamond before anything gets built.
+- **NO GUESSING.** Phone width first. Contrast computed. Keyboard and reduced motion respected.
 
-## Stack
+### STACK
 
-Vanilla JS (ES6+) · CSS · PWA and service workers · Cloudflare Pages and D1 · GitHub Pages · Capacitor · MapLibre GL · Web Audio API · Git
+`Vanilla JS` `CSS` `PWA` `Service Workers` `Cloudflare Pages + D1` `GitHub Pages` `Capacitor` `MapLibre GL` `Web Audio` `Git`
 
-## Background
+---
 
-BA Business Innovation, Inholland Amsterdam. Italian (native), English (fluent), Dutch (developing).
+BA Business Innovation, Inholland Amsterdam · Italiano (madrelingua) · English (fluent) · Nederlands (developing)
